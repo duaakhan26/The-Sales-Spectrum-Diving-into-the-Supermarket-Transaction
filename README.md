@@ -33,7 +33,7 @@ Reveals temporal purchasing trends, allowing for a deeper understanding of the t
 
 Segment customers into meaningful groups, facilitating targeted strategies based on similar preferences and behaviors.
 
-![Dashboard](https://github.com/duaakhan26/Spotify-Dashboard-PowerBI/blob/main/Screenshot%202023-12-12%20033953.png)
+![Dashboard](https://github.com/duaakhan26/The-Sales-Spectrum-Diving-into-the-Supermarket-Transaction/blob/main/clus.png)
 
 
 # III. Predictive Modeling
