@@ -33,6 +33,9 @@ Reveals temporal purchasing trends, allowing for a deeper understanding of the t
 
 Segment customers into meaningful groups, facilitating targeted strategies based on similar preferences and behaviors.
 
+![Dashboard](https://github.com/duaakhan26/Spotify-Dashboard-PowerBI/blob/main/Screenshot%202023-12-12%20033953.png)
+
+
 # III. Predictive Modeling
 
 Finally, the project employs Classification and Regression models to predict:
